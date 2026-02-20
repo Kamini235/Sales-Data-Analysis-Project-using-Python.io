@@ -31,13 +31,13 @@ This Sales data is downloaded from online You Tube Channel.
 Conclusions
 
 
-	Successfully transformed a messy dataset into cleaned format.
-	Extracted key insights that can help in decision-making processes.
-	From graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men.
-	Most of the buyers are of age group between 26-35 yrs female. ( i.e. more than 4 lacs)
-	We conclude that most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra and Karnataka respectively
-	Maximum number of the buyers are working in IT, Healthcare and Aviation sector.
-	More number of the sold products are from Food, Clothing and Electronics category.
+1.	Successfully transformed a messy dataset into cleaned format.
+2.	Extracted key insights that can help in decision-making processes.
+3.	From graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men.
+4.	Most of the buyers are of age group between 26-35 yrs female. ( i.e. more than 4 lacs)
+5.	We conclude that most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra and Karnataka respectively
+6.	Maximum number of the buyers are working in IT, Healthcare and Aviation sector.
+7.	More number of the sold products are from Food, Clothing and Electronics category.
 
 This project helped me strengthen my data cleaning and analysis skills and understand how raw data is transformed into useful insights. 
 
