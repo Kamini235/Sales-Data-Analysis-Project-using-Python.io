@@ -1,6 +1,7 @@
 # Sales-Data-Analysis-Project-using-Python.io
-Data Cleaning &amp; Exploratory Data Analysis (EDA) Project Using Python This is an end-to-end data analysis project where I worked on Sales data to perform data cleaning, preprocessing, and exploratory data analysis (EDA).
+
 Sales Analytics: Sales Insights Dashboard A dynamic, interactive data visualization tool built to explore sales data —focusing on regional comparisons, potential customer across different states, occupation, gender and age groups.
+
 The Sales Dashboard is a visually engaging and analytical report designed to help users explore and compare over different customer across States and Age groups. The dashboard focuses on highlighting major features like Top States and The Products having more revenue earned, Age group wise purchased, and considering the gender factor to attract customers. Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
 The goal was to transform raw data into a clean analysed format ready for business insights.
 
