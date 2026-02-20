@@ -1,2 +1,44 @@
 # Sales-Data-Analysis-Project-using-Python.io
 Data Cleaning &amp; Exploratory Data Analysis (EDA) Project Using Python This is an end-to-end data analysis project where I worked on Sales data to perform data cleaning, preprocessing, and exploratory data analysis (EDA).
+Sales Analytics: Sales Insights Dashboard A dynamic, interactive data visualization tool built to explore sales data —focusing on regional comparisons, potential customer across different states, occupation, gender and age groups.
+The Sales Dashboard is a visually engaging and analytical report designed to help users explore and compare over different customer across States and Age groups. The dashboard focuses on highlighting major features like Top States and The Products having more revenue earned, Age group wise purchased, and considering the gender factor to attract customers. Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
+The goal was to transform raw data into a clean analysed format ready for business insights.
+
+📋 Key Tasks Performed
+Task 01: Data Cleaning & Preprocessing
+1.	Loaded Raw Data: Processed CSV files to start the analysis.
+2.	Handled Missing Values: Identified and filled/dropped null values to ensure data quality.
+3.	Removed Duplicates: Cleaned the dataset by removing redundant entries.
+4.	Cleaned and standardized column names for better readability.
+5.	Standardized Formats: Corrected data types (Dates, Strings) for consistency.
+
+Task 02: Exploratory Data Analysis (EDA)
+1.	Statistical Summary: Analysed mean, median, and distribution of the data.
+2.	Data Visualization: Created charts to extract insights and identify patterns.
+3.	Correlation Analysis: Found relationships between different data variables.
+
+🛠️ Tools Used
+1.	Python: Core programming language.
+2.	Pandas: For data manipulation and cleaning.
+3.	NumPy: For numerical operations.
+4.	Matplotlib: For data visualization.
+5.	Jupyter Notebook: Development environment.
+
+Data Source
+This Sales data is downloaded from online You Tube Channel.
+
+
+Conclusions
+
+
+	Successfully transformed a messy dataset into cleaned format.
+	Extracted key insights that can help in decision-making processes.
+	From graphs we can see that most of the buyers are females and even the purchasing power of females are greater than men.
+	Most of the buyers are of age group between 26-35 yrs female. ( i.e. more than 4 lacs)
+	We conclude that most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra and Karnataka respectively
+	Maximum number of the buyers are working in IT, Healthcare and Aviation sector.
+	More number of the sold products are from Food, Clothing and Electronics category.
+
+This project helped me strengthen my data cleaning and analysis skills and understand how raw data is transformed into useful insights. 
+
+Suggestions and feedback are welcome 
