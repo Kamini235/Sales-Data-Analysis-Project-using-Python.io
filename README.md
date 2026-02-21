@@ -2,7 +2,9 @@
 
 Sales Analytics: Sales Insights Dashboard A dynamic, interactive data visualization tool built to explore sales data —focusing on regional comparisons, potential customer across different states, occupation, gender and age groups.
 
-The Sales Dashboard is a visually engaging and analytical report designed to help users explore and compare over different customer across States and Age groups. The dashboard focuses on highlighting major features like Top States and The Products having more revenue earned, Age group wise purchased, and considering the gender factor to attract customers. Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
+The Sales Dashboard is a visually engaging and analytical report designed to help users explore and compare over different customer across States and Age groups.
+The dashboard focuses on highlighting major features like Top States and The Products having more revenue earned, Age group wise purchased, and considering the gender factor to attract customers. Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
+
 The goal was to transform raw data into a clean analysed format ready for business insights.
 
 📋 Key Tasks Performed
@@ -28,7 +30,6 @@ Task 02: Exploratory Data Analysis (EDA)
 Data Source
 This Sales data is downloaded from online You Tube Channel.
 
-
 Conclusions
 
 
@@ -41,6 +42,9 @@ Conclusions
 7.	More number of the sold products are from Food, Clothing and Electronics category.
 
 This project helped me strengthen my data cleaning and analysis skills and understand how raw data is transformed into useful insights.
-https://github.com/Kamini235/Sales-Data-Analysis-Project-using-Python.io/blob/main/Screenshot%202026-02-20%20151428.png
 
 Suggestions and feedback are welcome 
+
+
+https://github.com/Kamini235/Sales-Data-Analysis-Project-using-Python.io/blob/main/Screenshot%202026-02-20%20151428.png
+
