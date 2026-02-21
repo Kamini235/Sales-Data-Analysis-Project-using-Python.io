@@ -40,6 +40,7 @@ Conclusions
 6.	Maximum number of the buyers are working in IT, Healthcare and Aviation sector.
 7.	More number of the sold products are from Food, Clothing and Electronics category.
 
-This project helped me strengthen my data cleaning and analysis skills and understand how raw data is transformed into useful insights. 
+This project helped me strengthen my data cleaning and analysis skills and understand how raw data is transformed into useful insights.
+https://github.com/Kamini235/Sales-Data-Analysis-Project-using-Python.io/blob/main/Screenshot%202026-02-20%20151428.png
 
 Suggestions and feedback are welcome 
